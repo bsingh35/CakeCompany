@@ -1,0 +1,5 @@
+D:\CakeCompany\CakeCompany\obj\Debug\net5.0\CakeCompany.csprojAssemblyReference.cache
+D:\CakeCompany\CakeCompany\obj\Debug\net5.0\CakeCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\CakeCompany\CakeCompany\obj\Debug\net5.0\CakeCompany.AssemblyInfoInputs.cache
+D:\CakeCompany\CakeCompany\obj\Debug\net5.0\CakeCompany.AssemblyInfo.cs
+D:\CakeCompany\CakeCompany\obj\Debug\net5.0\CakeCompany.csproj.CoreCompileInputs.cache

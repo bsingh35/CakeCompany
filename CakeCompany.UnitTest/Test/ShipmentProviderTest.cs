@@ -1,8 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Threading.Tasks;
 using CakeCompany.Interface;
 using CakeCompany.Models;
 using CakeCompany.Provider;
@@ -22,8 +19,7 @@ namespace CakeCompany.UnitTest.Test
         private readonly Mock<ICakeProvider>  _mockCakeProvider ;
         private readonly Mock<IPaymentProvider> _mockPaymentProvider ;
         private readonly Mock<ITransportProvider> _mockTransportProvider ;
-
-        private readonly Mock<ILogger> _mockLogger;
+        private readonly Mock<ILogger<ShipmentProvider>> _mockLogger;
 
         public ShipmentProviderTest()
         {
@@ -32,7 +28,7 @@ namespace CakeCompany.UnitTest.Test
             _mockCakeProvider=new Mock<ICakeProvider>();
             _mockPaymentProvider=new Mock<IPaymentProvider>();
             _mockTransportProvider=new Mock<ITransportProvider>();
-            _mockLogger=new Mock<ILogger>();
+            _mockLogger=new Mock<ILogger<ShipmentProvider>>();
 
         }
 

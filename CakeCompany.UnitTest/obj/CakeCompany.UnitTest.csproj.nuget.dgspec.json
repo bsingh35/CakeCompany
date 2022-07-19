@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CakeCompany\\CakeCompany\\CakeCompany.UnitTest\\CakeCompany.UnitTest.csproj": {}
+    "D:\\CakeCompany\\CakeCompany.UnitTest\\CakeCompany.UnitTest.csproj": {}
   },
   "projects": {
-    "D:\\CakeCompany\\CakeCompany\\CakeCompany.UnitTest\\CakeCompany.UnitTest.csproj": {
+    "D:\\CakeCompany\\CakeCompany.UnitTest\\CakeCompany.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CakeCompany\\CakeCompany\\CakeCompany.UnitTest\\CakeCompany.UnitTest.csproj",
+        "projectUniqueName": "D:\\CakeCompany\\CakeCompany.UnitTest\\CakeCompany.UnitTest.csproj",
         "projectName": "CakeCompany.UnitTest",
-        "projectPath": "D:\\CakeCompany\\CakeCompany\\CakeCompany.UnitTest\\CakeCompany.UnitTest.csproj",
+        "projectPath": "D:\\CakeCompany\\CakeCompany.UnitTest\\CakeCompany.UnitTest.csproj",
         "packagesPath": "C:\\Users\\sushm\\.nuget\\packages\\",
-        "outputPath": "D:\\CakeCompany\\CakeCompany\\CakeCompany.UnitTest\\obj\\",
+        "outputPath": "D:\\CakeCompany\\CakeCompany.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sushm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\CakeCompany\\CakeCompany\\CakeCompany\\CakeCompany.csproj": {
-                "projectPath": "D:\\CakeCompany\\CakeCompany\\CakeCompany\\CakeCompany.csproj"
+              "D:\\CakeCompany\\CakeCompany\\CakeCompany.csproj": {
+                "projectPath": "D:\\CakeCompany\\CakeCompany\\CakeCompany.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "D:\\CakeCompany\\CakeCompany\\CakeCompany\\CakeCompany.csproj": {
+    "D:\\CakeCompany\\CakeCompany\\CakeCompany.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CakeCompany\\CakeCompany\\CakeCompany\\CakeCompany.csproj",
+        "projectUniqueName": "D:\\CakeCompany\\CakeCompany\\CakeCompany.csproj",
         "projectName": "CakeCompany",
-        "projectPath": "D:\\CakeCompany\\CakeCompany\\CakeCompany\\CakeCompany.csproj",
+        "projectPath": "D:\\CakeCompany\\CakeCompany\\CakeCompany.csproj",
         "packagesPath": "C:\\Users\\sushm\\.nuget\\packages\\",
-        "outputPath": "D:\\CakeCompany\\CakeCompany\\CakeCompany\\obj\\",
+        "outputPath": "D:\\CakeCompany\\CakeCompany\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sushm\\AppData\\Roaming\\NuGet\\NuGet.Config"

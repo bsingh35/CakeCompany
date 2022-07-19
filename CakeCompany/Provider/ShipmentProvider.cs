@@ -8,7 +8,7 @@ namespace CakeCompany.Provider;
 
 public class ShipmentProvider:IShipmentProvider
 {
-   private readonly ILogger logger; 
+   private readonly ILogger<ShipmentProvider> logger;
    private readonly IOrderProvider orderProvider;
    private readonly ICakeProvider cakeProvider ;
    private readonly IPaymentProvider paymentProvider ;
@@ -19,7 +19,7 @@ public class ShipmentProvider:IShipmentProvider
    public string Message {get=>_message;set{_message=value;}}
 
 //Using microsoft dependency injection to initialize object
-   public ShipmentProvider(IOrderProvider _orderProvider,ICakeProvider  _cakeProvider,IPaymentProvider _paymentProvider,ITransportProvider _transportProvider,ILogger _logger )
+   public ShipmentProvider(IOrderProvider _orderProvider,ICakeProvider  _cakeProvider,IPaymentProvider _paymentProvider,ITransportProvider _transportProvider,ILogger<ShipmentProvider> _logger )
    {
     orderProvider= _orderProvider;
     cakeProvider=  _cakeProvider;
